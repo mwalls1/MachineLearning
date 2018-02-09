@@ -1,0 +1,16 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\PythonWorkspace\.metadata\.plugins\org.eclipse.core.resources\.projects\PyQT\com.python.pydev.analysis\v2_indexcache
+Tests.__init__|1518201397584374000|C:\PythonWorkspace\PyQT\Tests\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=Tests.__init__
+-- END DICTIONARY
+-- START TREE 1
+1
+a|1|a!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

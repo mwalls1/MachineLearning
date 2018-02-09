@@ -1,0 +1,15 @@
+INSTUPTestCode.iris_data
+C:\PythonWorkspace\TestCode\TestCode\iris_data.py
+INFOS:&&3|1|2|0&&3|3|2|0&&3|4|2|0&&3|5|2|0&&2|6|2|0&&2|7|2|0&&2|8|2|0&&2|9|2|0&&3|10|2|0&&2|11|2|0&&2|12|2|0
+train_input_fn=8
+TestCode.iris_data=2
+CSV_COLUMN_NAMES=4
+SPECIES=5
+CSV_TYPES=10
+eval_input_fn=9
+TRAIN_URL=1
+csv_input_fn=12
+maybe_download=6
+load_data=7
+_parse_line=11
+TEST_URL=3

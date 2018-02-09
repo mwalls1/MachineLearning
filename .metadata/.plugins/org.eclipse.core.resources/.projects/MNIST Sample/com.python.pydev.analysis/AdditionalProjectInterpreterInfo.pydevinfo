@@ -1,0 +1,35 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\PythonWorkspace\.metadata\.plugins\org.eclipse.core.resources\.projects\MNIST Sample\com.python.pydev.analysis\v2_indexcache
+SampleCode.__init__|1518135008470766000|C:\PythonWorkspace\MNIST Sample\SampleCode\__init__.py
+SampleCode.Sample|1518135775613197000|C:\PythonWorkspace\MNIST Sample\SampleCode\Sample.py
+SampleCode.SampleAdvanced|1518136349673322000|C:\PythonWorkspace\MNIST Sample\SampleCode\SampleAdvanced.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+3=SampleCode.__init__
+1=SampleCode.Sample
+2=SampleCode.SampleAdvanced
+-- END DICTIONARY
+-- START TREE 1
+16
+W|2|W!11@W!19@
+acc|2|accuracy!11@accuracy!19@
+b|2|b!19@b!11@
+bat|1|batch!19@
+cor|2|correct_prediction!19@correct_prediction!11@
+cro|2|cross_entropy!19@cross_entropy!11@
+fla|1|FLAGS!27@
+ini|1|init!11@
+mai|1|main!26@
+mni|2|mnist!19@mnist!11@
+par|1|parser!27@
+ses|2|sess!11@sess!19@
+tra|2|train_step!11@train_step!19@
+x|2|x!19@x!11@
+y|2|y!19@y!11@
+y_|2|y_!11@y_!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

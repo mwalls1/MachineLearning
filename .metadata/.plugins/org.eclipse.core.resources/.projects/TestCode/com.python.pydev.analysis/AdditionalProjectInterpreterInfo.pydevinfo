@@ -1,0 +1,40 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\PythonWorkspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TestCode\com.python.pydev.analysis\v2_indexcache
+TestCode.estimator_test|1518130125128000000|C:\PythonWorkspace\TestCode\TestCode\estimator_test.py
+TestCode.iris_data|1518130125128000000|C:\PythonWorkspace\TestCode\TestCode\iris_data.py
+TestCode.premade_estimator|1518130125129000000|C:\PythonWorkspace\TestCode\TestCode\premade_estimator.py
+TestCode.custom_estimator|1518130125128000000|C:\PythonWorkspace\TestCode\TestCode\custom_estimator.py
+TestCode.test|1518080856449595000|C:\PythonWorkspace\TestCode\TestCode\test.py
+TestCode.__init__|1518077870115728000|C:\PythonWorkspace\TestCode\TestCode\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+2=TestCode.estimator_test
+1=TestCode.iris_data
+3=TestCode.premade_estimator
+6=RegressionTest
+4=TestCode.custom_estimator
+5=TestCode.test
+-- END DICTIONARY
+-- START TREE 1
+14
+_pa|1|_parse_line!10@
+csv|3|csv_input_fn!10@CSV_COLUMN_NAMES!11@CSV_TYPES!11@
+eva|1|eval_input_fn!10@
+fou|2|four_lines_data!18@FOUR_LINES!19@
+loa|1|load_data!10@
+mai|2|main!26@main!34@
+may|1|maybe_download!10@
+my_|1|my_model!34@
+par|2|parser!35@parser!27@
+reg|1|RegressionTest!17@
+ses|1|sess!43@
+spe|1|SPECIES!11@
+tes|1|TEST_URL!11@
+tra|2|TRAIN_URL!11@train_input_fn!10@
+-- END TREE
+-- START TREE 2
+1
+tes|2|test_premade_estimator!6&18@test_custom_estimator!6&18@
+-- END TREE

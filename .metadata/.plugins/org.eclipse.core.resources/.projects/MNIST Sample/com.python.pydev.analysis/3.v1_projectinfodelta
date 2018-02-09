@@ -1,0 +1,16 @@
+INSTUPSampleCode.SampleAdvanced
+C:\PythonWorkspace\MNIST Sample\SampleCode\SampleAdvanced.py
+INFOS:&&3|1|2|0&&3|3|2|0&&3|4|2|0&&3|5|2|0&&3|6|2|0&&3|7|2|0&&3|8|2|0&&3|9|2|0&&3|10|2|0&&3|11|2|0&&3|12|2|0&&3|13|2|0
+b=7
+train_step=10
+y_=5
+sess=3
+batch=11
+SampleCode.SampleAdvanced=2
+accuracy=13
+cross_entropy=9
+W=6
+x=4
+correct_prediction=12
+y=8
+mnist=1
