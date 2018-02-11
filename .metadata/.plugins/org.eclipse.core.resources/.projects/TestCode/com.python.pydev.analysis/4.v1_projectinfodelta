@@ -1,9 +1,0 @@
-INSTUPTestCode.estimator_test
-C:\PythonWorkspace\TestCode\TestCode\estimator_test.py
-INFOS:&&3|1|2|0&&2|3|2|0&&1|4|2|0&&2|5|2|4&&2|6|2|4
-TestCode.estimator_test=2
-FOUR_LINES=1
-test_premade_estimator=5
-RegressionTest=4
-test_custom_estimator=6
-four_lines_data=3
